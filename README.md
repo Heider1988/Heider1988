@@ -6,7 +6,7 @@
 
 ## 🌟 Tecnologias
 
-- **Java Lover**: Java 17, Spring Boot, Spring Batch  
+- **Java**: Java 21, 17, 11, 8, Spring Boot, Spring Batch  
 - **Arquiteto de Microsserviços**: Hexagonal, RESTful, Docker & Kubernetes  
 - **Cloud**: AWS, Azure, OCI  
 - **DevOps**: GitHub Actions, Jenkins, Terraform  
