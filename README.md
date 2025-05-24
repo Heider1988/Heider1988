@@ -4,15 +4,6 @@
 
 ---
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=heider1988&theme=darkhub&margin-w=15&row=2" alt="Trophies"/>&nbsp;
-  <!-- Profile Visits -->
-  <img src="https://komarev.com/ghpvc/?username=heider1988&label=Profile%20views&color=0e75b6" alt="Profile views"/>
-</p>
-
----
-
 ### 🚀 Estatísticas
 
 <p align="left">
