@@ -10,7 +10,8 @@
 - **Arquiteto de Microsserviços**: Hexagonal, RESTful, Docker & Kubernetes  
 - **Cloud**: AWS, Azure, OCI  
 - **DevOps**: GitHub Actions, Jenkins, Terraform  
-- **DB**: Oracle, DB2, SQL Server  
+- **DB**: Oracle, DB2, SQL Server
+- **Metodologias**: Scrum e Kanban  
 
 ---
 
