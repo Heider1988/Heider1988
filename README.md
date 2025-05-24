@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Heider Almeida!
-
 🚀 Engenheiro de Software Java com mais de **5 anos** de experiência em **sistemas financeiros de alta performance**, apaixonado por **performance**, **arquitetura limpa** e **tecnologias de ponta**!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heider1988/)
