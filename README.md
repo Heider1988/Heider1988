@@ -8,9 +8,9 @@
 
 - **Java Lover**: Java 17, Spring Boot, Spring Batch  
 - **Arquiteto de Microsserviços**: Hexagonal, RESTful, Docker & Kubernetes  
-- **Cloud Ninja**: AWS, Azure, OCI  
-- **DevOps Fan**: GitHub Actions, Jenkins, Terraform  
-- **DB Geek**: Oracle, DB2, SQL Server  
+- **Cloud**: AWS, Azure, OCI  
+- **DevOps**: GitHub Actions, Jenkins, Terraform  
+- **DB**: Oracle, DB2, SQL Server  
 
 ---
 
