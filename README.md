@@ -18,6 +18,7 @@ Código limpo, deploys automatizados e café forte. Bora?
     <!-- GitHub Stats: stars, commits, PRs, etc -->
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=heider1988&show_icons=true&theme=dark&count_private=true"/>
     <!-- Top Languages (layout compacto) -->
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heider1988&layout=compact&theme=dark"/>
   </a>
 </div>
 
