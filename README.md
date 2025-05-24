@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Coffee & Code" width="200"/>
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Steaming Coffee" width="200"/>
 </p>
 
 <h2 align="center">Oi, eu sou o <strong>Heider</strong> ☕👨‍💻</h2>
