@@ -1,4 +1,10 @@
 <p align="center">
+  <em>Java Software Engineer • Microsserviços • Cloud • DevOps • Café☕</em>
+</p>
+
+---
+
+<p align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=heider1988&theme=darkhub&margin-w=15&row=2" alt="Trophies"/>&nbsp;
   <!-- Profile Visits -->
