@@ -1,38 +1,47 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coffee coding" width="150"/>
+  <img src="https://i.imgur.com/3l4QZzI.png" alt="Coffee & Code" width="200"/>
 </p>
 
-<h3 align="center">Fala aí! 👋 Eu sou o <b>Heider</b></h3>
+<h2 align="center">Oi, eu sou o <strong>Heider</strong> ☕👨‍💻</h2>
 <p align="center">
-  <em>Java Software Engineer • Microsserviços • Cloud • DevOps • Café ☕</em>
+  Engenheiro de Software Java apaixonado por microsserviços, nuvem e muita performance.
 </p>
 
 ---
 
-<h3 align="left">🚀 Estatísticas</h3>
-<div align="left">
-  <a href="https://github.com/heider1988">
-    <!-- GitHub Stats -->
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=heider1988&show_icons=true&theme=dark&count_private=true" alt="Heider's GitHub stats"/>
-    <!-- Top Languages -->
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heider1988&layout=compact&theme=dark" alt="Top languages"/>
-  </a>
+## 🌟 Destaques Rápidos
+
+- **Java Lover**: Java 17, Spring Boot, Spring Batch  
+- **Arquiteto de Microsserviços**: Hexagonal, RESTful, Docker & Kubernetes  
+- **Cloud Ninja**: AWS, Azure, OCI  
+- **DevOps Fan**: GitHub Actions, Jenkins, Terraform  
+- **DB Geek**: Oracle, DB2, SQL Server  
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=heider1988&show_icons=true&theme=radical&count_private=true" alt="Heider's GitHub Stats"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heider1988&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
-<h3 align="left">Connect with me</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heider1988/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@1988heider-java-developer)  
-[![Email](https://img.shields.io/badge/Email-heider.o@icloud.com-D14836?style=for-the-badge&logo=gmail)](mailto:heider.o@icloud.com)
+## 🔗 Conecte-se comigo
 
----
-
-<h3 align="left">🛠️ Ferramentas & Tecnologias</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,spring,git,githubactions,jenkins,docker,kubernetes,kafka,aws,azure,oracle,db2,sql&theme=dark" />
+<p align="center">
+  <a href="mailto:heider.o@icloud.com">
+    <img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/heider1988/">
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.youtube.com/@1988heider-java-developer">
+    <img src="https://img.shields.io/badge/▶️-YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+  </a>
 </p>
 
 ---
 
-> “Café bom é como código limpo: essencial para um dia produtivo.” ☕🚀
+> “Comecei o dia com café e uma boa arquitetura — já ganhei metade da batalha!” 🚀
