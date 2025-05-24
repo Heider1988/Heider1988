@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="mailto:heider.o@icloud.com">
-    <img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail"/>
+   <img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=mail"/>
   </a>
   <a href="https://www.linkedin.com/in/heider1988/">
     <img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
