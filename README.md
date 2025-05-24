@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Steaming Coffee" width="200"/>
-</p>
-
-<h2 align="center">Oi, eu sou o <strong>Heider</strong> ☕👨‍💻</h2>
-<p align="center">
-  Engenheiro de Software Java apaixonado por microsserviços, nuvem e alta performance.
+  <em>Java Software Engineer • Microsserviços • Cloud • DevOps • Café☕</em>
 </p>
 
 ---
 
-## 🌟 Destaques Rápidos
+## 🌟 Tecnologias
 
 - **Java Lover**: Java 17, Spring Boot, Spring Batch  
 - **Arquiteto de Microsserviços**: Hexagonal, RESTful, Docker & Kubernetes  
@@ -19,7 +14,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=heider1988&show_icons=true&theme=radical&count_private=true" alt="Heider's GitHub Stats"/>
