@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/3l4QZzI.png" alt="Coffee & Code" width="200"/>
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Coffee & Code" width="200"/>
 </p>
 
 <h2 align="center">Oi, eu sou o <strong>Heider</strong> ☕👨‍💻</h2>
 <p align="center">
-  Engenheiro de Software Java apaixonado por microsserviços, nuvem e muita performance.
+  Engenheiro de Software Java apaixonado por microsserviços, nuvem e alta performance.
 </p>
 
 ---
